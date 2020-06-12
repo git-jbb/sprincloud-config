@@ -1,4 +1,2 @@
-server:
-  port: 8888
 config:
     info: "master springcloud-config/config-dev.yml"
