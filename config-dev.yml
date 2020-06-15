@@ -1,4 +1,4 @@
-server:
-  port: 6666
+#server:
+#  port: 6666
 config:
     info: "master springcloud-config/config-dev.yml1"
